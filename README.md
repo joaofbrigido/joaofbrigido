@@ -15,7 +15,7 @@
   <img align="center" alt="Js" height="30" width="40" src="./imgs/javascript-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="./imgs/typescript-original.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="./imgs/react-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="./imgs/nextjs-original-wordmark.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="./imgs/nextjs-original.svg">
   <img align="center" alt="Adobe XD" height="30" width="40" src="./imgs/xd-plain.svg">
 </div>
 
