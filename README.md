@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Fernando 👋
 
-- 🔭 Estagiário em TI na [DoQR Tecnologia](http://doqr.com.br/)
+- 🔭 Desenvolvedor Web Jr na [DoQR Tecnologia](http://doqr.com.br/)
 - 🌱 Atualmente estudando ReactJS/NextJS
 - 🎯 Focado em desenvolvimento Front-end
 - ⚡ Interesse em UI/UX Design
