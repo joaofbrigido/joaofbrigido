@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Fernando 👋
 
-- 🔭 Desenvolvedor Web na [DoQR Tecnologia](http://doqr.com.br/)
-- 🌱 Atualmente estudando ReactJS/NextJS
+- 👨‍💻 Desenvolvedor Web Front-End na [DoQR Tecnologia](http://doqr.com.br/)
+- 📖 Especialista em React.js & Next.js
 - 🎯 Focado em desenvolvimento Front-end
 - ⚡ Interesse em UI/UX Design
 
