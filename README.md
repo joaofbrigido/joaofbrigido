@@ -1,8 +1,8 @@
 ## Olá, eu sou o João Fernando 👋
 
-- 👨‍💻 Desenvolvedor Web Front-End na [DoQR Tecnologia](http://doqr.com.br/)
+- 👨‍💻 Desenvolvedor Front-End na [Aarin Tech-Fin](https://aarin.com.br)
 - 📖 Especialista em React.js & Next.js
-- 🎯 Focado em desenvolvimento Front-end
+- 🎯 Focado em desenvolvimento Web
 - ⚡ Interesse em UI/UX Design
 
 <br/>
@@ -16,7 +16,6 @@
   <img align="center" alt="Ts" height="30" width="40" src="./imgs/typescript-original.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="./imgs/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="./imgs/nextjs-original.svg">
-  <img align="center" alt="Adobe XD" height="30" width="40" src="./imgs/xd-plain.svg">
 </div>
 
 ##
